@@ -3,7 +3,7 @@
 ### Author : Patrick
 
 ## Description
-- An example repo to add contributors to
+- An example repo to add contributors to.
 
 ## Tech
 - Cool Stack!
@@ -12,6 +12,6 @@
 - All the steps!
 
 ## Known Bugs
-- The hungry caterpillar
+- The hungry caterpillar.
 
 ## LICENSE
